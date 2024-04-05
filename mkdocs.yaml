@@ -1,0 +1,8 @@
+site_name: "demo-vm3"
+site_description: "Documentation for demo-vm3"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

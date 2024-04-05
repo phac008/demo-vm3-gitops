@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: demo-vm3
+  description: Tests assert
+  labels:
+    environments: qa
+spec:
+  owner: group:default/infrastructure
